@@ -1,5 +1,5 @@
 # demandware-integration
-Unified API for Volusion  integration and other shopping carts &amp; marketplaces, including Amazon, eBay, Woocommerce,
+Unified API for Demandware  integration and other shopping carts &amp; marketplaces, including Amazon, eBay, Woocommerce,
 Opencart, Shopify.  
 
 Download our SDK http://docs.api2cart.com/sdk to test how the API works.   
